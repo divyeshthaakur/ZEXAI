@@ -77,7 +77,4 @@ VITE_BACKEND_URL=http://localhost:5000   # or your deployed backend URL
 VITE_RAZORPAY_API_KEY=your_razorpay_api_key
 ```
 
-## 🙌 Acknowledgements
-Thanks to the ClipDrop team for providing such an amazing API.
 
-Built with ❤️ by Divil Thakur
